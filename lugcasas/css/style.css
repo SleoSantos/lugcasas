@@ -1,0 +1,9 @@
+/* Move o conteúdo 3.5rem para baixo, porque usamos uma navbar fixa que tem altura de 3.5rem */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;  
+}
+.jumbotron { 
+  padding: 150px; /* fills out the jumbotron */
+  background-image: url(https://cdn1.vivareal.com/p/14732-a285587/v/static/app/img/pages/home/hero/hero-medium.jpg);
+}
